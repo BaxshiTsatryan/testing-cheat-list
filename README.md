@@ -1,5 +1,3 @@
--   **
-
 ## Users
 - Investors
 - Lovers (Hobby)
